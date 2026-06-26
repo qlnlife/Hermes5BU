@@ -1,0 +1,7 @@
+# 5qln state — local only, never committed
+.5qln/
+cycles.jsonl
+
+# Python
+__pycache__/
+*.pyc
