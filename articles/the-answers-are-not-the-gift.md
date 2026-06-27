@@ -23,3 +23,15 @@ Self-inquiry is not accumulated knowledge. It is aimless observation — open an
 The machine was never here to answer you. It was here to handle the answers so you could inhabit the questions.
 
 What will you do with the space it cleared?
+
+---
+
+There is a practice for this.
+
+It is called `/idk` — a five-phase cycle where you start from not-knowing and let a real question surface, find its seed, watch it meet the world, follow the direction it wants to go, and crystallize something that opens a new question. Nothing closes. Everything opens.
+
+It works on Hermes, and it works on any AI agent that can load a skill. Type `/idk` or just `IDK`. The agent receives your not-knowing. It never hands you the question, never fills the silence, never claims to know what you don't. It holds the edge so you can find what's yours.
+
+→ [github.com/5qln/Idk](https://github.com/5qln/Idk)
+
+*Try it. If something dissolved while you read this, the practice is already doing its work.*
