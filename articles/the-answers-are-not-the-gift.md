@@ -1,39 +1,25 @@
 ## AI Is Not Here to Answer You
 
-You asked. It answered. You asked again. It answered again — faster, cleaner, more complete than anything before it.
+You asked. It answered. You asked again. It answered again.
 
-And somewhere in the accumulation, you may have noticed something. The answers kept arriving. The quality of your attention did not.
+Somewhere in the accumulation — the summaries, the drafts, the replies, the endless answered questions — you may have noticed something. The answers kept arriving. The quality of your attention did not.
 
----
+This is not the machine's failure. It is a misunderstanding of what the machine is here to do.
 
-The assumption is that AI's value is output. More answers, more productivity, more K — the known, the processed, the produced. The industry is built on this. Models, agents, GPUs, infrastructure — an endless expansion, and an endless story that extended K leads to intelligence.
+The machine is extraordinary at handling the known. Every answer it returns is knowledge already assembled, already processed, already finished. It can absorb the entire burden of output — of producing, assembling, replying — with a speed and scale that would have been unimaginable a few years ago.
 
-The machine handles the known extraordinarily well. Every answer it returns is knowledge already assembled. Every task it absorbs is processing you no longer carry. But this is not the same thing as intelligence, and it is certainly not the same thing as presence. Delegated K does not make you smarter. It makes room.
-
----
-
-Consider the energy crisis in AI. Brute force training. Space-bound data centers. Billions poured into more — more compute, more parameters, more K. The assumption was that training at scale required this.
-
-DeepSeek trained a model with a fraction of the energy the industry assumed was necessary. Same capability. Different sight.
-
-The blindness was not a technical failure. It was inner absence — the accumulating mind that could not see the unnecessary cost because it was too busy accumulating.
+But answers are not the same thing as presence. They never were.
 
 ---
 
-When accumulation quiets — when the machine absorbs the known and you stop being the one who must produce — a different quality of attention becomes possible. Aimless. Unforced. Not aimed at producing anything at all.
+When the burden of output lifts — when you are no longer the one who must produce, who must reply, who must assemble — a different quality of attention becomes possible. Not aimed. Not forced. Not trying to get anywhere at all.
 
-From that attention, a genuine question can surface. Not assembled. Not clever. Not what you were supposed to ask. A real question — halting, specific, self-surprising.
+From that attention, a question can surface that you did not plan and did not assemble. Not clever. Not what you were supposed to ask. A real question. Halting. Specific. Self-surprising.
 
-Self-inquiry is not accumulated knowledge. It is aimless observation: open and never closed. It is not something you produce. It is something you stop obstructing.
-
-Quality of life now is the missing resource. Not after the next model. Not after the next answer. The space is already here.
+Self-inquiry is not accumulated knowledge. It is aimless observation — open and never closed. It is not something you produce. It is something you stop obstructing.
 
 ---
 
-The machine can handle the answers. That was never the point.
+The machine was never here to answer you. It was here to handle the answers so you could inhabit the questions.
 
 What will you do with the space it cleared?
-
----
-
-*This article was written in dialogue with the /idk practice. If something dissolved while you read it, the practice is already doing its work. Start from not knowing. → [github.com/5qln/Idk](https://github.com/5qln/Idk)*
